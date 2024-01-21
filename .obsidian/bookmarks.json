@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "🏠 Home.md",
+      "ctime": 1683054065430
+    },
+    {
+      "type": "group",
+      "ctime": 1690357931349,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1690006541556,
+          "path": "Atlas/My Areas.md",
+          "title": ""
+        }
+      ],
+      "title": "Mapmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1690357953610,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1690358738622,
+          "title": "Basic Global Graph",
+          "options": {
+            "collapse-filter": false,
+            "search": "",
+            "showTags": true,
+            "showAttachments": true,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": true,
+            "textFadeMultiplier": -1.8,
+            "nodeSizeMultiplier": 1.35738663675693,
+            "lineSizeMultiplier": 0.447842096249358,
+            "collapse-forces": true,
+            "centerStrength": 0.418727745164084,
+            "repelStrength": 9.93123628383321,
+            "linkStrength": 0.662111442594553,
+            "linkDistance": 30,
+            "scale": 0.11656891816223064,
+            "close": false
+          }
+        }
+      ],
+      "title": "Graphmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1690357969772,
+      "items": [],
+      "title": "Timemarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1690357974738,
+      "items": [],
+      "title": "Searchmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1690357996687,
+      "items": [
+        {
+          "type": "file",
+          "path": "Spaces/50 💻 Career & Business/5001 Areas/💻 Technical/KPIT Competency HeatMap/Competancy Framework.md",
+          "ctime": 1683054065430,
+          "title": "Competancy Framework - Develop"
+        },
+        {
+          "type": "file",
+          "ctime": 1704910444610,
+          "path": "Spaces/80 🎸 Hobbies and Recreation/8001 Areas/82 Cooking/Recipes MOC.md"
+        }
+      ],
+      "title": "Progress Points"
+    },
+    {
+      "type": "group",
+      "ctime": 1690358563547,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1684091084500,
+          "path": "Spaces/00 🤹 Productivity & Habits/0001 Areas/04 Methods/WorkFlow Tips/Mental Hygiene Routine.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1684091244695,
+          "path": "Spaces/00 🤹 Productivity & Habits/0001 Areas/04 Methods/WorkFlow Tips/Trusting a System.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1690252792013,
+          "path": "Cards/Explain Ideas Visually.md",
+          "title": "Visual Communication"
+        }
+      ],
+      "title": "Vergence Points"
+    },
+    {
+      "type": "file",
+      "ctime": 1698113704327,
+      "path": "Sources/ReadItLater_Inbox/Youtube - How to Lose Weight  The Complete Scientific Guide  Dhruv Rathee - 2023-10-23 22-14-23.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1701542447012,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1701542411773,
+          "path": "Atlas/My Core Principes.md"
+        }
+      ],
+      "title": "Life Map"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"224f93a96d92ce2e","type":"group","x":-1460,"y":180,"width":2221,"height":320,"label":"Projects"},
+		{"id":"dec328a0efbf79d9","x":-1190,"y":730,"width":250,"height":60,"type":"text","text":""},
+		{"id":"bf552def5c8f3dca","type":"text","text":"```dataview\nTABLE\nprjStatus as \"Project Status\", prjHealth as \"Project Health\", area as \"Area\" , tags\nWHERE type = \"project\" AND prjStatus = \"Completed\"\nSORT area ASC\n```","x":-120,"y":200,"width":861,"height":248},
+		{"id":"aed35a1c1320d28f","type":"text","text":"```dataview\nTABLE\nprjStatus as \"Project Status\", prjHealth as \"Project Health\", area as \"Area\" , tags\nWHERE type = \"project\" AND prjStatus != \"Completed\"\nSORT area ASC\n```\n","x":-1440,"y":200,"width":1248,"height":280}
+	],
+	"edges":[]
+}

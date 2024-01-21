@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "\"🗓️ Calendar-2023-YYYY-[W]ww",
+  "weeklyNoteTemplate": "Extras/Templates/0A_2_WeaklyReview.md",
+  "weeklyNoteFolder": "Calendar/Weekly Notes",
+  "localeOverride": "system-default"
+}

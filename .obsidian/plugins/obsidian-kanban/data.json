@@ -1,0 +1,11 @@
+{
+  "new-note-folder": "Projects/Kanban View",
+  "hide-card-count": false,
+  "show-checkboxes": true,
+  "show-view-as-markdown": false,
+  "show-board-settings": true,
+  "link-date-to-daily-note": false,
+  "archive-with-date": true,
+  "hide-tags-in-title": true,
+  "hide-date-in-title": true
+}

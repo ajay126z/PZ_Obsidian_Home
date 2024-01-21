@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclass": "multitext",
+    "tags": "tags",
+    "created": "datetime",
+    "prjStartDate": "date",
+    "Year": "text",
+    "btype": "text",
+    "lastModified": "datetime",
+    "up": "multitext",
+    "ISBN": "multitext",
+    "TotalPage": "text",
+    "Status": "text",
+    "Category": "multitext",
+    "Author": "multitext",
+    "same": "multitext",
+    "Suryanamaskar": "number",
+    "WakeupTime": "number",
+    "CookingTime": "number"
+  }
+}

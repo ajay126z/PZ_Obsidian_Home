@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "tags": "tags",
+    "created": "datetime",
+    "prjStartDate": "date",
+    "lastModified": "datetime",
+    "up": "multitext",
+    "same": "multitext",
+    "cssclasses": "multitext",
+    "recipeType": "multitext"
+  }
+}

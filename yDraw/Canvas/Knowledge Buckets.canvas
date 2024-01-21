@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"text","text":"Encounter","id":"28427ae43477b720","x":1370,"y":-180,"width":250,"height":60},
+		{"type":"text","text":"PKM Workflow","id":"c3f5bb25124178ce","x":920,"y":-130,"width":250,"height":60},
+		{"type":"text","text":"**PKM**","id":"83a0a500f59524c3","x":580,"y":-200,"width":250,"height":60},
+		{"type":"text","text":"900 - Literature, History, Biography & Geography","id":"5c22cc1af8dc14c8","x":160,"y":533,"width":240,"height":100},
+		{"type":"text","text":"100 - Personal Management\n","id":"604a72bdccebc6fd","x":160,"y":-120,"width":250,"height":60},
+		{"type":"text","text":"000 - Knowledge Management","id":"11ac9a8b74a4f162","x":160,"y":-200,"width":250,"height":60},
+		{"type":"text","text":"200 - Philosophy & Psychology, Spirituality & Religion","id":"1a8af491c31f1d0d","x":160,"y":-40,"width":340,"height":80},
+		{"type":"text","text":"300 - Social Sciences and World Relations","id":"3d1ad3aeeabcbe10","x":160,"y":60,"width":250,"height":60},
+		{"type":"text","text":"400 - Communications, Language, Lingustics & Rhetoric","id":"6929f9c275241ac2","x":160,"y":140,"width":297,"height":53},
+		{"type":"text","text":"500 - Natural Sciences","id":"c136fd0cd7197bd7","x":160,"y":213,"width":250,"height":60},
+		{"type":"text","text":"600 - Applied Sciences and Technology","id":"2c4802912a48d7f7","x":160,"y":293,"width":250,"height":60},
+		{"type":"text","text":"700 - Business & Entrepreneurship","id":"2c8e5269eb2e7f28","x":160,"y":373,"width":250,"height":60},
+		{"type":"text","text":"800 - Art and Recreation","id":"4d96493e0650375e","x":160,"y":453,"width":250,"height":60},
+		{"type":"text","text":"Library [[Library]]","id":"07ec7178b5deeaae","x":-280,"y":350,"width":240,"height":100},
+		{"type":"text","text":"Second Brain","id":"a056d3ca3c410ead","x":920,"y":-290,"width":250,"height":60},
+		{"type":"text","text":"PKM Tags","id":"807efca588eb0c1e","x":920,"y":-210,"width":250,"height":60},
+		{"type":"text","text":"PKM Sources","id":"066073d5a77b62ba","x":920,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"Inbox -> Notebox -> Outbox","id":"9786a3ddff3eaa7a","x":1720,"y":-180,"width":280,"height":60},
+		{"id":"bce50db87158d9e0","x":629,"y":361,"width":250,"height":60,"type":"text","text":"[[Home.canvas|Home]]"}
+	],
+	"edges":[
+		{"id":"a64c9c06b9c2bff2","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"11ac9a8b74a4f162","toSide":"left"},
+		{"id":"7e1c2d5954b77f3b","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"604a72bdccebc6fd","toSide":"left"},
+		{"id":"28ae277e1112a78d","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"1a8af491c31f1d0d","toSide":"left"},
+		{"id":"02753995e5730a21","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"3d1ad3aeeabcbe10","toSide":"left"},
+		{"id":"dd5605527eb4af5b","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"6929f9c275241ac2","toSide":"left"},
+		{"id":"3223d26f214e22e2","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"c136fd0cd7197bd7","toSide":"left"},
+		{"id":"79638ee9b3ceada7","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"2c4802912a48d7f7","toSide":"left"},
+		{"id":"9391e9b6ec7fdf45","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"2c8e5269eb2e7f28","toSide":"left"},
+		{"id":"24c7acaa6c30dc00","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"4d96493e0650375e","toSide":"left"},
+		{"id":"057404432541a30a","fromNode":"07ec7178b5deeaae","fromSide":"right","toNode":"5c22cc1af8dc14c8","toSide":"left"},
+		{"id":"42f2b70b68791fec","fromNode":"11ac9a8b74a4f162","fromSide":"right","toNode":"83a0a500f59524c3","toSide":"left"},
+		{"id":"21ce0189a9fa1664","fromNode":"83a0a500f59524c3","fromSide":"right","toNode":"a056d3ca3c410ead","toSide":"left"},
+		{"id":"b3a4490824c56298","fromNode":"83a0a500f59524c3","fromSide":"right","toNode":"807efca588eb0c1e","toSide":"left"},
+		{"id":"655d5a262fdd8106","fromNode":"83a0a500f59524c3","fromSide":"right","toNode":"c3f5bb25124178ce","toSide":"left"},
+		{"id":"f7fa556ed377a190","fromNode":"c3f5bb25124178ce","fromSide":"right","toNode":"28427ae43477b720","toSide":"left"},
+		{"id":"02aa5dddb56c4351","fromNode":"28427ae43477b720","fromSide":"right","toNode":"9786a3ddff3eaa7a","toSide":"left"},
+		{"id":"0e7a24fd746025d2","fromNode":"604a72bdccebc6fd","fromSide":"right","toNode":"066073d5a77b62ba","toSide":"left"}
+	]
+}

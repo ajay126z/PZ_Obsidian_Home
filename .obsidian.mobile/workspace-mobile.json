@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "2e1fd2e999022306",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b9bf5be37895c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b2ed2b1611e00e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/0A_2_WeeklyReview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35ebce399a7e51d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Y2024/01 Daily Notes/2024-01-21 (W03-Sun).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99be837375802816",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5321d5bc11ba3866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Y2024/01 Daily Notes/2024-01-21 (W03-Sun).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b35c4b1b59726387",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "29ca304ad17bb618",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "47804f2e85543f32",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#myfavoritesong",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "092ec08bd303e41c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "49ba33db958c1790",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "9dc279834cddc4ad",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "f7b2ffa02da51a6b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "d3fc016cea45b999",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6653d645e03063be",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Calendar/Y2024/01 Daily Notes/2024-01-21 (W03-Sun).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a9914dd1ba2349b5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Calendar/Y2024/01 Daily Notes/2024-01-21 (W03-Sun).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8df16bb27de067b3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Calendar/Y2024/01 Daily Notes/2024-01-21 (W03-Sun).md"
+          }
+        }
+      },
+      {
+        "id": "3b61ec3d1e2c4dd8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b1e146ab6a1a6625",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": true,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "5321d5bc11ba3866",
+  "lastOpenFiles": [
+    "Calendar/Metrics/🍲 Food Journal.md",
+    "Calendar/Y2024/01 Daily Notes/2024-01-21 (W03-Sun).md",
+    "Calendar/Y2024/02 Weekly Notes/2024-W03.md",
+    "Extras/Templates/0A_1_DailyLog.md",
+    "Extras/Templates/0F_1_Recipes.md",
+    "+ Encounters/Ram Mandir.md",
+    "+ Encounters/Ram Mandir History.md",
+    "Spaces/Cooking/Recipes/Pavbhaji.md",
+    "Spaces/Cooking/Recipes/Poha.md",
+    "Sources/Courses/Science of Well Being (course).md",
+    "Calendar/Y2024/02 Weekly Notes/2024-W01.md",
+    "Calendar/Y2024/02 Weekly Notes/2024-W02.md",
+    "Calendar/Y2024/🗓️ Calendar-2024.md",
+    "Calendar/Y2024/03 Monthly Notes/2024-M01 (Jan).md",
+    "Calendar/Y2024/01 Daily Notes/2024-01-02 (W01-Tue).md",
+    "Calendar/Y2024/01 Daily Notes/2024-01-01 (W01-Mon).md",
+    "Extras/Templates/0A_2_WeeklyReview.md",
+    "Calendar/Y2024/01 Daily Notes/2024-01-20 (W03-Sat).md",
+    "Calendar/Y2024/01 Daily Notes/2024-01-12 (W02-Fri).md",
+    "data.json",
+    "Spaces/Cooking/Cooking MOC.md",
+    "Spaces/Cooking/Recipes/ખીચડો.md",
+    "Spaces/Cooking/Recipes/Shahi Paneer.md",
+    "Spaces/Cooking/Recipes/How to take Tadka.md",
+    "Spaces/Cooking/Recipes/Sandwich.md",
+    "Spaces/Cooking/Recipes/Preparing a Coffee.md",
+    "Spaces/Cooking/Recipes/How to Prepare a Tea.md",
+    "Spaces/Cooking/Recipes",
+    "Spaces/USA Home",
+    "Spaces/Programming/Web Development/JavaScript",
+    "Spaces/Programming/Web Development/CSS",
+    "Spaces/Programming/Web Development/HTML",
+    "Spaces/Programming/Web Development",
+    "Spaces/Programming/Python",
+    "Spaces/Programming",
+    "Spaces/English/English Grammar",
+    "yDraw/Canvas/Home.canvas",
+    "yDraw/Canvas/Knowledge Buckets.canvas",
+    "Extras/Images/image 8.jpg",
+    "yDraw/Canvas/Projects.canvas",
+    "Extras/Images/screenshot 3.png",
+    "Extras/Images/screenshot 2.png",
+    "Extras/Images/screenshot 1.png",
+    "Extras/Images/2023-06-28-07-29-23.png",
+    "Extras/Images/2023-07-19-20-02-07.png",
+    "Extras/Images/2023-06-28-07-31-41.png",
+    "Extras/Images/2023-06-18-15-26-11.jpeg",
+    "Extras/Images/2023-06-13-17-05-06.jpeg",
+    "Extras/Images/Prepare_Reading_1683557860809_0.png"
+  ]
+}

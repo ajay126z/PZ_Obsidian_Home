@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Shimmering Focus",
+  "translucency": false,
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "1. Typography"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "accentColor": "#61b3ff",
+  "nativeMenus": true,
+  "showViewHeader": false
+}

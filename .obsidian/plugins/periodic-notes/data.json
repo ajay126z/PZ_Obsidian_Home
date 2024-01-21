@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "YYYY-MM-DD ([W]ww-ddd)",
+    "folder": "Calendar/Y2024/01 Daily Notes",
+    "template": "Extras/Templates/0A_1_DailyLog",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY-[W]ww",
+    "folder": "Calendar/Y2024/02 Weekly Notes",
+    "template": "Extras/Templates/0A_2_WeeklyReview.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-[M]MM (MMM)",
+    "template": "Extras/Templates/0A_3_MonthlyLog.md",
+    "folder": "Calendar/Y2024/03 Monthly Notes",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY-[Q]Q",
+    "template": "Extras/Templates/0A_4_Quarterly_Journal.md",
+    "folder": "Calendar/Y2024/04 Quarterly Notes",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "[🗓️ Calendar]-YYYY",
+    "template": "Extras/Templates/0A_5_YearlyGols.md",
+    "folder": "Calendar/Y2024",
+    "enabled": true
+  }
+}

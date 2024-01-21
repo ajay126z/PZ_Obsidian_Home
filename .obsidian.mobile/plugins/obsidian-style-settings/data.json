@@ -1,0 +1,18 @@
+{
+  "mado-miniflow@@theme-color": "theme-red-sky",
+  "shimmering-focus@@hide-settings-button": false,
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "shimmering-focus@@show-ribbon": true,
+  "shimmering-focus@@show-urls": true,
+  "shimmering-focus@@show-tab-list-button": true,
+  "shimmering-focus@@show-sidebar-toggle-buttons": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@show-vault-in-file-explorer": true,
+  "shimmering-focus@@show-file-explorer-navigation": true,
+  "shimmering-focus@@mac-os-native": false,
+  "shimmering-focus@@uncolored-bold": false,
+  "shimmering-focus@@no-built-in-supercharged-links": false,
+  "shimmering-focus@@hide-backlinks-status-bar": false,
+  "shimmering-focus@@normal-out-back-links": false,
+  "shimmering-focus@@highlight-hue-1": 55
+}

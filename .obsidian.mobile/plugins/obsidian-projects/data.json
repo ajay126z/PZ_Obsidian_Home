@@ -1,0 +1,279 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [
+        "Sources/Books/+ Books.md"
+      ],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Sources/Books",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Sources/Books",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 410
+              },
+              "Category": {
+                "width": 351
+              },
+              "path": {
+                "hide": true
+              },
+              "aliases": {
+                "width": 463,
+                "hide": true
+              },
+              "Cover": {
+                "hide": true
+              },
+              "ISBN": {
+                "hide": true
+              },
+              "up": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "bookAuthor",
+              "bookCategory",
+              "bookStatus",
+              "tags",
+              "bookTotalPage",
+              "created",
+              "updated",
+              "bookCover",
+              "bookISBN",
+              "type"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "Status",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "d9e79c71-2fd5-4974-a3f0-a03f2336f2cb",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "columns": {
+              "To Read": {
+                "weight": 0
+              },
+              "Reading": {
+                "weight": 1
+              },
+              "Summarize": {
+                "weight": 2
+              },
+              "Reflect": {
+                "weight": 3
+              },
+              "Completed": {
+                "weight": 4
+              }
+            },
+            "includeFields": [
+              "bookAuthor"
+            ],
+            "groupByField": "bookStatus"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "bookStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "To Read"
+                }
+              },
+              {
+                "color": "#ec4152",
+                "condition": {
+                  "field": "bookStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Reading"
+                }
+              },
+              {
+                "color": "#80ffa6",
+                "condition": {
+                  "field": "bookStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Completed"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "updated",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "f8e68b60-e3b1-464a-94b6-4e816ed083e3",
+          "name": "Book Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "fitStyle": "contain",
+            "coverField": "bookCover",
+            "includeFields": [
+              "Status"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "0ceb12e4-89b4-4355-9d50-79f9067ceda1",
+          "name": "Books Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "b2f37dff-e5ed-4785-9702-b30d529e2fe9",
+      "name": "Book Tracker"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Extras/Templates/0F_1_Recipes.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Spaces/Cooking/Recipes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "aliases": {
+                "width": 402
+              },
+              "path": {
+                "hide": true
+              },
+              "created": {
+                "hide": true
+              },
+              "up": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "30b9391f-cf02-490b-999e-4e9da5638923",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "recipeStatus",
+            "columns": {
+              "Unfamiliar": {
+                "weight": 0
+              },
+              "Learning": {
+                "weight": 1
+              },
+              "Practicing": {
+                "weight": 2
+              },
+              "Mastering": {
+                "weight": 3
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2c2f8b03-bd59-4378-8278-831e2492a3f1",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "0089ce85-e003-4ea6-a9b0-31c90f0689a4",
+      "name": "Cooking Recipes"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "b2f37dff-e5ed-4785-9702-b30d529e2fe9",
+        "view": "f8e68b60-e3b1-464a-94b6-4e816ed083e3"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

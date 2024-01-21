@@ -1,0 +1,116 @@
+---
+up:
+  - "[[🏠 Home]]"
+tags:
+  - "#mylife"
+same:
+  - "[[Productivity Systems]]"
+  - "[[🧰 My Tools]]"
+created: 2023-12-13T11:55
+updated: 2024-01-20T23:47
+---
+
+## Sources - Inputs and Outputs
+- Input
+	- My Capture Sources
+		- [[Videos]]
+			- [[Youtube]]
+			- Vimeo
+			- Tiktok
+		- [[📥 Books Inbox]]
+		- [[Twitter]]
+		- [[Podcasts]]
+		- [[Articles]]
+	- Tags:
+		- [[To Process]]
+		- [[Processing]]
+		- [[Processed]]
+	- My Notes
+		- Za - Area
+			- Zb - Book
+				- Zc - Chapter
+- Output
+	- [[Mindmaps]]
+	- Article
+	- Summary
+	- Evergreen Note
+	- Blog
+	- Post
+	- Video
+	- White Paper
+
+## Main Idea Meta Data
+- In order to Maintain the System Below things must be clarified.
+- ### Properties
+	- Inbuilt
+		- Alias
+		- Filters
+	- Generic
+		- Tags
+		- Status [[status]]
+		- up
+		- down
+		- same
+		- next
+		- prev
+	- Template
+		- Template
+		- Template-including-parent
+	- Food Journal
+		- Breakfast
+		- Dinner
+		- Lunch
+	- Habits
+		- Day-plan
+		- Exercise
+		- Meditation
+		- Productive
+		- Wake-up-early
+	- Calenda
+		- Week-note
+		- Month-note
+		- Next-month
+		- Next-quarter
+		- Prev-month
+		- Prev-quarter
+	- Notes Management
+		- Area [[area]]
+	- [[Zettelkasten]]
+		- Refer
+		- Related
+		- S
+		- X
+		- [[znote]]
+			- Seed
+			- Fern
+			- Incubator
+			- Evergreen
+			- Question
+	- Area/Project/Task Management
+		- Thingslink
+		- Type [[type]]
+			- Sources
+			- Area project task
+			- Tracker
+			- Guidelines
+	- Project Tracke
+		- Prjhealth
+		- Prjstatus
+	- Books
+		- Title
+		- Author
+		- Cover
+		- Start
+		- End
+		- Link
+		- Year
+	- Video
+		- Video-title
+	- Articles
+		- 
+- ## Workflows
+	- Conventions:
+		- @ --> People
+		- & --> Places, Location
+		- $ --> App
+	
